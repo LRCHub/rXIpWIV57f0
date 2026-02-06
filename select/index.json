@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "茶柱",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-06T22:37:12.381078Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "茶柱",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_茶柱_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "茶柱",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_茶柱_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "茶柱 - Chabashira",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_茶柱_-_Chabashira_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chabashira [茶柱]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_Chabashira_[茶柱]_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "茶柱",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_茶柱_サカナクション.txt"
+    }
+  ]
+}
